@@ -1,0 +1,2 @@
+# javaProjects
+IntelliJ IDEA projects
